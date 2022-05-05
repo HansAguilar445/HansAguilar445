@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/HansAguilar445/HansAguilar445/img/readme_header.png "Header")
+![Header](https://raw.githubusercontent.com/HansAguilar445/HansAguilar445/main/img/readme_header.jpg "Header")
 # About me
 Hello to you, whoever might be reading this. I am Hans Aguilar, a Software Development student living in Winnipeg, a city in Canada located in the province of Manitoba.
 
